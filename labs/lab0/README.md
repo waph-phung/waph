@@ -11,13 +11,13 @@ This lab is covered in Lecture 2, with preparation homework in Lecture 1. In Par
 
 ## Report 
 
-You need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and then the following sub-sections:
+You need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([https://github.com/waph-phung/waph/blob/main/README-template.md](https://github.com/waph-phung/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and then the following sub-sections:
 
 ## The lab's overview
 
 Write an overview of the lab.
 
-Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab0](https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab0).
+Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/waph-phung/waph-phungph/tree/main/labs/lab0](https://github.com/waph-phung/waph-phungph/tree/main/labs/lab0).
 
 
 ## Part I - Ubuntu Virtual Machine & Software Installation
@@ -39,7 +39,7 @@ Include a **screenshot** to show that you have cloned the course repository into
 
 ### Private Repository
 
-Describe critical steps to create your private repository on [GitHub.com](https://github.com) and share it with `phung-waph`. Also, include this repository's full URL, e.g., [https://github.com/phungph-uc/waph-phungph.git](https://github.com/phungph-uc/waph-phungph.git).
+Describe critical steps to create your private repository on [GitHub.com](https://github.com) and share it with `phung-waph`. Also, include this repository's full URL, e.g., [https://github.com/waph-phung/waph-phungph.git](https://github.com/waph-phung/waph-phungph.git).
 
 Summarize hands-on exercises, such as generating SSH keys, adding the public key to your GitHub account, cloning your remote repository into your VM, and editing the README.md following the provided template with my headshot.
 
