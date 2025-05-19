@@ -23,7 +23,7 @@ Follow the detailed instructions in Lecture 3's slides with hands-on demonstrati
 
 ## Report and deliverables
 
-As prepared in [Lab 0](../lab0), you need to create a sub-folder `labs/lab1` with a README.md file to write a report in Markdown format and generate the report to PDF using the `pandoc` application. All of the code from this lab must also be stored in this folder and included in the report if required. **Please note that the required screenshots must include your virtual machine name or your name with proper captions and be visible, e.g., not too blurry, for grading**. Your report should follow the template provided in Lecture 2 ([https://github.com/phungph-uc/waph/blob/main/README-template.md](https://github.com/phungph-uc/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and the following sub-sections:
+As prepared in [Lab 0](../lab0), you need to create a sub-folder `labs/lab1` with a README.md file to write a report in Markdown format and generate the report to PDF using the `pandoc` application. All of the code from this lab must also be stored in this folder and included in the report if required. **Please note that the required screenshots must include your virtual machine name or your name with proper captions and be visible, e.g., not too blurry, for grading**. Your report should follow the template provided in Lecture 2 ([https://github.com/waph-phung/waph/blob/main/README-template.md](https://github.com/waph-phung/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and the following sub-sections:
 
 ## The lab's overview
 
@@ -31,7 +31,7 @@ As prepared in [Lab 0](../lab0), you need to create a sub-folder `labs/lab1` wit
 
 Write an overview of the lab and the outcomes you learned from this lab.
 
-Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab1](https://github.com/phungph-uc/waph-phungph/tree/main/labs/lab1).
+Also, include a direct clickable link to the lab folder on GitHub.com so that it can be viewed when grading, for example,  [https://github.com/waph-phung/waph-phungph/tree/main/labs/lab1](https://github.com/waph-phung/waph-phungph/tree/main/labs/lab1).
 
 
 ## Part I - The Web and HTTP Protocol
