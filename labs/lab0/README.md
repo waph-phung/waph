@@ -6,12 +6,12 @@
 
 ## Overview 
 
-This lab is covered in Lecture 2, with preparation homework in Lecture 1. In Part I, you need to setup an Ubuntu 22.04 Virtual Machine on VirtualBox and install software and applications. In Part II, you will clone the course repository and your private repository and complete git exercises to write the report.
+This lab is covered in Lecture 2, with preparation homework in Lecture 1. In Part I, you need to set up an Ubuntu 22.04 Virtual Machine on VirtualBox and install software and applications. In Part II, you will clone the course repository and your private repository and complete the `git` exercises to write the report.
 
 
 ## Report 
 
-You need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([https://github.com/waph-phung/waph/blob/main/README-template.md](https://github.com/waph-phung/waph/blob/main/README-template.md)) which should include the course name and instructor, your name and email together with your headshot (150x150 pixels), and then the following sub-sections:
+You need to create a sub-folder `labs/lab0` with a README.md file to write the report in Markdown format and generate the report to PDF using the `pandoc` application. Your report should follow the template provided in Lecture 2 ([https://github.com/waph-phung/waph/blob/main/README-template.md](https://github.com/waph-phung/waph/blob/main/README-template.md)), which should include the course name and instructor, your name and email, together with your headshot (150x150 pixels), and then the following sub-sections:
 
 ## The lab's overview
 
@@ -22,13 +22,13 @@ Also, include a direct clickable link to the lab folder on GitHub.com so that it
 
 ## Part I - Ubuntu Virtual Machine & Software Installation
 
-A summary of steps you have performed to setup the Ubuntu 22.04 virtual machine and install the required software and applications.
+A summary of the steps you have performed to set up the Ubuntu 22.04 virtual machine and install the required software and applications.
 
 No screenshot is required in this sub-section; however, it is welcome, and detailed information is encouraged.
 
 ### Apache Web Server Testing
 
-Include a **screenshot** to demonstrate that the Apache Web Server is running properly as it can be accessed in Google Chrome within your Ubuntu VM , and a browser in your laptop/computer using its IP address.
+Include a **screenshot** to demonstrate that the Apache Web Server is running properly, as it can be accessed in Google Chrome within your Ubuntu VM, and in a browser on your laptop/computer using its IP address.
 
 
 ## Part II - git Repositories and Exercises
