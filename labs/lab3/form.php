@@ -5,7 +5,16 @@
   <title>WAPH-Login page</title>
   <script type="text/javascript">
       function displayTime() {
-        document.getElementById('digit-clock').innerHTML = "Current time:" + new Date();
+        const options = {
+          month: 'short', // 'Jun'
+          day: '2-digit', // '24'
+          hour: '2-digit', // '07'
+          minute: '2-digit', // '03'
+          second: '2-digit', // '45'
+          hour12: true // 'am'
+        };
+        const formattedTime = new Date().toLocaleString('en-US', options).replace(/,/, '');
+        document.getElementById('digit-clock').innerHTML = "Current time: " + formattedTime;
       }
       setInterval(displayTime,500);
   </script>
@@ -16,7 +25,7 @@
   <div id="digit-clock"></div>  
 <?php
   //some code here
-  echo "Visited time: " . date("Y-m-d h:i:sa")
+  echo "Visited time: " . date("M-d h:i:sa")
 ?>
   <form action="index.php" method="POST" class="form login">
     Username:<input type="text" class="text_field" name="username" /> <br>
