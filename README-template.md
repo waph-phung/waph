@@ -10,7 +10,7 @@
 
 **Short-bio**: Phu Phung has keen interests in ethical hacking and secure software development. 
 
-![Phu's headshot](https://udayton.edu/directory/artssciences/computerscience/images/phung-phu.jpg)
+![Phu's headshot](https://webcentral.uc.edu/eprof/media/repository/1614PhungPhu9731.jpg)
 
 ## Repository Information
 
